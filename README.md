@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **[haviyallamraju@gmail.com]**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1MWV5su_y7QHEQuCXX2Ha4qs9UVnOVTRR/edit?usp=sharing&ouid=111626445931319147213&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume]((https://drive.google.com/file/d/12b2myZEacM46BkdWZ54SEvbKL28TzKju/view?usp=drive_link)
 
 - ⚡ Fun fact **I've explored so many programming languages that I once dreamt in code — and surprisingly, it compiled!**
 <div align="center">
