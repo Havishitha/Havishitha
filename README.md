@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Havishitha</h1>
 
-<h3 align="center">A passionate in Machine Learning, Language Modelling , and also data scientist</h3>
+<h3 align="center">A passionate in Machine Learning, and also data science</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saisrushik&label=Profile%20views&color=0e75b6&style=flat" alt="saisrushik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=havishitha&label=Profile%20views&color=0e75b6&style=flat" alt="havishitha" /> </p>
 
-- 👨‍💻 Portfolio - [click here]
+- 👨‍💻 Portfolio - [click here](https://havishitha.github.io/Portfolio/)
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Image Processing, Natural Language Processing, Reinforcement Learning, Python,Pytorch, Tensorflow, Keras, ReactJs, NodeJs, MongoDB, SQl.**
 
