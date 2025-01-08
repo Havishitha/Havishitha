@@ -7,8 +7,6 @@
 
 - 👨‍💻 Portfolio - [click here](https://havishitha.github.io/Portfolio/)
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Image Processing, Natural Language Processing, Reinforcement Learning, Python,Pytorch, Tensorflow, Keras, ReactJs, NodeJs, MongoDB, SQl.**
-
 - 📫 How to reach me **[haviyallamraju@gmail.com]**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bO4zjt03iykzL-q277IP_-ZPS4tZ5JwM/view?usp=drive_link)
